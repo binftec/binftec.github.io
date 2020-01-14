@@ -1,2 +1,2 @@
-# bintec.github.io
-my personal blog
+# Beyond infinity Technologies
+My personal blog
